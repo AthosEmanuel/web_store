@@ -1,0 +1,14 @@
+.bodyContainer {
+  width: auto;
+  display: grid;
+  align-items: center;
+  row-gap: 5%;
+  grid-template-columns: auto auto;
+}
+
+.bodyCard {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}

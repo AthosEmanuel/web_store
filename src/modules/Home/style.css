@@ -1,0 +1,13 @@
+.bodyHome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+.bodyCategorie {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+  gap: 10px;
+}
